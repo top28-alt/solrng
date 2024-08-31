@@ -19,3 +19,4 @@ go to auto responses and make a new response
 put "let's go gambling" in the trigger
 press **+ add response** 26 times
 for each number go to the files in this and copy and paste each one in **response**
+check **send as a reply** and **ping the author**
