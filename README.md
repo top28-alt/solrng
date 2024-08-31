@@ -12,3 +12,10 @@ added super duper, red and  green (Aug 30th 2024)
 added blue, purple, moyai, happy, orange, yellow, boom, brown, a, rainbow, gold, dark matter, demon, troll (Aug 30th 2024) (collab with ciphen) (big update)
 # update 1.21
 fix bug (Aug 31 2024)
+
+# how to install
+put probot in your discord server
+go to auto responses and make a new response
+put "let's go gambling" in the trigger
+press **+ add response** 26 times
+for each number go to the files in this and copy and paste each one in **response**
