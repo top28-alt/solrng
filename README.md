@@ -1,6 +1,5 @@
-# soon
-soon
-
+# solrng
+a game for discord
 
 # update 1.0
 released (Aug 29th 2024)
