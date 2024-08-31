@@ -11,6 +11,8 @@ added super duper, red and  green (Aug 30th 2024)
 added blue, purple, moyai, happy, orange, yellow, boom, brown, a, rainbow, gold, dark matter, demon, troll (Aug 30th 2024) (collab with ciphen) (big update)
 # update 1.21
 fix bug (Aug 31 2024)
+# update 1.3
+added superior, sun, milky way, Andromeda galaxy, universe, MULTIVERSE, MEGAVERSE, ULTRAVERSE, Farland (Aug 31st 2024)
 
 # how to install
 put probot in your discord server
