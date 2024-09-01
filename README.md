@@ -15,11 +15,13 @@ fix bug (Aug 31 2024)
 added superior, sun, milky way, Andromeda galaxy, universe, MULTIVERSE, MEGAVERSE, ULTRAVERSE, Farland (Aug 31st 2024)
 # update 1.4
 farther land, fartherer land, farthest land, spu7nix, bli, infinity, megafinity, gigafinity, terafinity, ultrafinity, elitefinity, secret, super secret, absolute infinite (Aug 31st 2024)
+# update 1.5
+Added Absolute end, absolute true end, absolutely everything, change of scene, oxygen, super kenos, chroma, endless, B-CHROMA, BB-CHROMA, BBBBBBBBBB-CHROMA, endless, Elon Musk, super endless, mega endless, giga endless (Sep 1st 2024)
 
 # how to install
 put probot in your discord server
 go to auto responses and make a new response
 put "let's go gambling" in the trigger
-press **+ add response** 49 times
+press **+ add response** 64 times
 for each number go to the files in this and copy and paste each one in **response**
 check **send as a reply** and **ping the author**
