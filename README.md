@@ -13,6 +13,8 @@ added blue, purple, moyai, happy, orange, yellow, boom, brown, a, rainbow, gold,
 fix bug (Aug 31 2024)
 # update 1.3
 added superior, sun, milky way, Andromeda galaxy, universe, MULTIVERSE, MEGAVERSE, ULTRAVERSE, Farland (Aug 31st 2024)
+# update 1.4
+farther land, fartherer land, farthest land, spu7nix, bli, infinity, megafinity, gigafinity, terafinity, ultrafinity, elitefinity, secret, super secret, absolute infinite (Aug 31st 2024)
 
 # how to install
 put probot in your discord server
