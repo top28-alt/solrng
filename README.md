@@ -25,3 +25,6 @@ put "let's go gambling" in the trigger
 press **+ add response** 64 times
 for each number go to the files in this and copy and paste each one in **response**
 check **send as a reply** and **ping the author**
+
+# WARNING
+1.51 is a fake update. it is NOT an official update. because of this, it is not here. unless it's official.
