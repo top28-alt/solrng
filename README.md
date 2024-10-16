@@ -28,3 +28,9 @@ check **send as a reply** and **ping the author**
 
 # WARNING
 1.51 is a fake update. it is NOT an official update. because of this, it is not here. unless it's official.
+
+# custom builds
+**note that the percentage build doesn't use ping the author, but all builds reply.**
+**2nd note: plush build uses wild card and uses the prompt "gambling"**
+currently available builds: percentage, plush
+same procedure but with a difference and responses
