@@ -32,5 +32,5 @@ check **send as a reply** and **ping the author**
 # custom builds
 **note that the percentage build doesn't use ping the author, but all builds reply.**
 **2nd note: plush build uses wild card and uses the prompt "gambling"**
-currently available builds: percentage, plush
+currently available builds: percentage, lucky (*aka percentage2, morepercentage*), plush
 same procedure but with a difference and responses
